@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\MyMusic-master\app\libs\core.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="60771a7a1ed9537e36f3ffb78ceb1016886270b1">
+        <dex dex="D:\AndroidStudioProjects\MyMusic-master\app\build\intermediates\pre-dexed\debug\core-4df470ee14036242528d5cbe2e37acff3927bbbc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyMusic-master\app\libs\library.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fbbd84981781c09a2f902f6e1755431d05014b4">
+        <dex dex="D:\AndroidStudioProjects\MyMusic-master\app\build\intermediates\pre-dexed\debug\library-85fb28968f27e66c1ddc521e7440c88fcb2c8ddf.jar" />
+    </item>
+    <item
+        jar="D:\l\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\AndroidStudioProjects\MyMusic-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-721bc02b4478bff8a2927fdc5ffaabeecd0aa18e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyMusic-master\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\AndroidStudioProjects\MyMusic-master\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0-0b76a85a24dd1a139ae4134eebc00991782912bf.jar" />
+    </item>
+    <item
+        jar="D:\l\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\AndroidStudioProjects\MyMusic-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-721bc02b4478bff8a2927fdc5ffaabeecd0aa18e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyMusic-master\app\libs\core.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="60771a7a1ed9537e36f3ffb78ceb1016886270b1">
+        <dex dex="D:\AndroidStudioProjects\MyMusic-master\app\build\intermediates\pre-dexed\debug\core-4df470ee14036242528d5cbe2e37acff3927bbbc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyMusic-master\app\libs\library.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fbbd84981781c09a2f902f6e1755431d05014b4">
+        <dex dex="D:\AndroidStudioProjects\MyMusic-master\app\build\intermediates\pre-dexed\debug\library-85fb28968f27e66c1ddc521e7440c88fcb2c8ddf.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyMusic-master\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\AndroidStudioProjects\MyMusic-master\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0-0b76a85a24dd1a139ae4134eebc00991782912bf.jar" />
+    </item>
+
+</items>
