@@ -43,7 +43,6 @@ import com.zdp.aseo.content.AseoZdpAseo;
  * 主类，首次进入应用会到这里
  * 该类提供了首页MainFragment的显示和侧滑MenuFragment的显示
  * @author longdw(longdawei1988@gmail.com)
- * have a change test for git
  *
  */
 @SuppressLint("HandlerLeak")
