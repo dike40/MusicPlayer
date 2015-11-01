@@ -84,7 +84,7 @@ public class MainContentActivity extends FragmentActivity implements IConstants 
 		mMainFragment = new MainFragment();
 		getSupportFragmentManager().beginTransaction()
 				.replace(R.id.frame_main, mMainFragment).commit();
-		AseoZdpAseo.initType(this, AseoZdpAseo.SCREEN_TYPE);
+		AseoZdpAseo.initType(this, AseoZdpAseo.SCREEN_TYPE);  //广告插件
 		// configure the SlidingMenu
 		mSlidingMenu = new SlidingMenu(this);
 		mSlidingMenu.setTouchModeAbove(SlidingMenu.TOUCHMODE_MARGIN);
